@@ -1,1 +1,1 @@
-# hangman
+# Jerry Chase
